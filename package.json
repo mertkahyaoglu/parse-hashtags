@@ -1,6 +1,6 @@
 {
   "name": "parse-hashtags",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "parses hashtags from a given text",
   "homepage": "mertkahyaoglu/parse-hashtags",
   "author": {
