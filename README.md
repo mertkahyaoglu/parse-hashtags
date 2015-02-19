@@ -1,4 +1,4 @@
-#  [![Build Status][travis-image]][travis-url]
+# parse-hashtags [![Build Status][travis-image]][travis-url]
 > parses hashtags from a given text
 
 
