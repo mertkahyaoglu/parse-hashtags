@@ -1,0 +1,35 @@
+{
+  "name": "parse-hashtags",
+  "version": "0.0.0",
+  "description": "parses hashtags from a given text",
+  "homepage": "mertkahyaoglu/parse-hashtags",
+  "author": {
+    "name": "Mert Kahyaoğlu",
+    "email": "mertkahyaoglu93@gmail.com",
+    "url": "http://mertkahyaoglu.github.io/"
+  },
+  "repository": "mertkahyaoglu/parse-hashtags",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "parse-hashtags",
+    "hashtag",
+    "parse hashtags",
+    "get hashtags"
+  ],
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^1.0.0",
+    "time-grunt": "^1.0.0",
+    "grunt-mocha-cli": "^1.11.0",
+    "jshint-stylish": "^1.0.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
